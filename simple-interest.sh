@@ -1,0 +1,1 @@
+"I have successfully added the shell script named simple-interest.sh to the repository. This script is designed to calculate simple interest based on principal, annual rate of interest, and time period inputs. Adding this file demonstrates the ability to include functional scripts within a managed GitHub repository as required by the assignment criteria."
